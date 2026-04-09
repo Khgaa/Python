@@ -1,2 +1,2 @@
-# Phyton
+# Python
 Códigos feitos no Python
