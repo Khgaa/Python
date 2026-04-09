@@ -1,2 +1,2 @@
 # Phyton
-Códigos feitos no Phyton
+Códigos feitos no Python
